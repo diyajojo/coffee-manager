@@ -1,4 +1,3 @@
-
 //useParams helps to access url parameters of current route 
 import { useParams ,useNavigate } from "react-router-dom";
 import { useEffect,useState } from "react";
